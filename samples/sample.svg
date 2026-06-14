@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#1E3A8A"/>
+  <circle cx="1042" cy="138" r="262" fill="#F97316" opacity="0.09"/>
+  <circle cx="1042" cy="138" r="168" fill="#F97316" opacity="0.09"/>
+  <circle cx="48" cy="1274" r="228" fill="#F97316" opacity="0.09"/>
+  <circle cx="48" cy="1274" r="138" fill="#F97316" opacity="0.09"/>
+  <circle cx="134" cy="338" r="7" fill="#FFF7ED" opacity="0.13"/>
+  <circle cx="170" cy="380" r="4" fill="#FFF7ED" opacity="0.09"/>
+  <circle cx="98" cy="386" r="4" fill="#FFF7ED" opacity="0.09"/>
+  <circle cx="948" cy="592" r="7" fill="#FFF7ED" opacity="0.13"/>
+  <circle cx="984" cy="634" r="4" fill="#FFF7ED" opacity="0.09"/>
+  <circle cx="912" cy="640" r="4" fill="#FFF7ED" opacity="0.09"/>
+  <rect x="0" y="0" width="1080" height="10" fill="#F97316"/>
+  <text x="540" y="54" font-family="DejaVu Sans, sans-serif" font-weight="400" font-size="23" fill="#FFF7ED" opacity="0.62" text-anchor="middle" letter-spacing="4">PARA MAESTROS DE PRIMARIA</text>
+  <ellipse cx="414" cy="428" rx="80" ry="102" fill="#163270" transform="rotate(-16 414 428)"/>
+  <ellipse cx="414" cy="428" rx="62" ry="82" fill="#1B3A82" transform="rotate(-16 414 428)"/>
+  <ellipse cx="666" cy="428" rx="80" ry="102" fill="#163270" transform="rotate(16 666 428)"/>
+  <ellipse cx="666" cy="428" rx="62" ry="82" fill="#1B3A82" transform="rotate(16 666 428)"/>
+  <ellipse cx="540" cy="416" rx="110" ry="126" fill="#FFF7ED"/>
+  <ellipse cx="540" cy="444" rx="70" ry="82" fill="#F97316" opacity="0.13"/>
+  <path d="M488,356 Q540,368 592,356" stroke="#F97316" stroke-width="2.5" fill="none" opacity="0.22"/>
+  <path d="M476,390 Q540,403 604,390" stroke="#F97316" stroke-width="2.5" fill="none" opacity="0.22"/>
+  <path d="M478,424 Q540,437 602,424" stroke="#F97316" stroke-width="2.5" fill="none" opacity="0.22"/>
+  <path d="M484,458 Q540,470 596,458" stroke="#F97316" stroke-width="2.5" fill="none" opacity="0.22"/>
+  <circle cx="540" cy="268" r="90" fill="#FFF7ED"/>
+  <polygon points="499,158 516,230 471,222" fill="#F97316"/>
+  <polygon points="499,166 514,226 475,219" fill="#1E3A8A" opacity="0.26"/>
+  <polygon points="581,158 564,230 609,222" fill="#F97316"/>
+  <polygon points="581,166 566,226 605,219" fill="#1E3A8A" opacity="0.26"/>
+  <circle cx="508" cy="260" r="36" fill="#F97316"/>
+  <circle cx="572" cy="260" r="36" fill="#F97316"/>
+  <circle cx="508" cy="260" r="28" fill="#FFFFFF"/>
+  <circle cx="572" cy="260" r="28" fill="#FFFFFF"/>
+  <circle cx="510" cy="262" r="15" fill="#1E3A8A"/>
+  <circle cx="574" cy="262" r="15" fill="#1E3A8A"/>
+  <circle cx="516" cy="255" r="7" fill="#FFFFFF"/>
+  <circle cx="580" cy="255" r="7" fill="#FFFFFF"/>
+  <circle cx="505" cy="269" r="3" fill="#FFFFFF" opacity="0.40"/>
+  <circle cx="569" cy="269" r="3" fill="#FFFFFF" opacity="0.40"/>
+  <polygon points="540,294 519,322 561,322" fill="#F97316"/>
+  <polygon points="540,299 527,314 540,318" fill="#FFFFFF" opacity="0.20"/>
+  <rect x="476" y="526" width="12" height="27" rx="6" fill="#F97316"/>
+  <rect x="494" y="523" width="12" height="29" rx="6" fill="#F97316"/>
+  <rect x="512" y="526" width="12" height="27" rx="6" fill="#F97316"/>
+  <rect x="568" y="526" width="12" height="27" rx="6" fill="#F97316"/>
+  <rect x="586" y="523" width="12" height="29" rx="6" fill="#F97316"/>
+  <rect x="604" y="526" width="12" height="27" rx="6" fill="#F97316"/>
+  <rect x="396" y="548" width="288" height="22" rx="11" fill="#F97316" opacity="0.55"/>
+  <rect x="401" y="549" width="278" height="8" rx="4" fill="#FFFFFF" opacity="0.10"/>
+  <rect x="68" y="608" width="944" height="432" rx="32" fill="#FFF7ED" stroke="#F97316" stroke-width="3" stroke-opacity="0.28"/>
+  <rect x="68" y="640" width="11" height="368" rx="5.5" fill="#F97316"/>
+  <text x="540" y="704" font-family="DejaVu Sans, sans-serif" font-weight="800" font-size="70" fill="#1E3A8A" text-anchor="middle">¿Sigues armando</text>
+  <text x="540" y="792" font-family="DejaVu Sans, sans-serif" font-weight="800" font-size="70" fill="#1E3A8A" text-anchor="middle">las boletas</text>
+  <text x="540" y="876" font-family="DejaVu Sans, sans-serif" font-weight="800" font-size="70" fill="#F97316" text-anchor="middle">a mano?</text>
+  <rect x="228" y="904" width="648" height="4" rx="2" fill="#F97316" opacity="0.28"/>
+  <text x="540" y="952" font-family="DejaVu Sans, sans-serif" font-weight="400" font-size="34" fill="#1E3A8A" opacity="0.75" text-anchor="middle">ClaseSmart las genera por ti</text>
+  <text x="540" y="995" font-family="DejaVu Sans, sans-serif" font-weight="600" font-size="34" fill="#1E3A8A" opacity="0.75" text-anchor="middle">en minutos.</text>
+  <circle cx="510" cy="1082" r="5" fill="#F97316" opacity="0.52"/>
+  <circle cx="540" cy="1082" r="5" fill="#F97316" opacity="0.80"/>
+  <circle cx="570" cy="1082" r="5" fill="#F97316" opacity="0.52"/>
+  <rect x="178" y="1108" width="724" height="120" rx="60" fill="#F97316" opacity="0.11"/>
+  <rect x="180" y="1110" width="720" height="116" rx="58" fill="none" stroke="#F97316" stroke-width="2.5" opacity="0.30"/>
+  <text x="540" y="1200" font-family="DejaVu Sans, sans-serif" font-weight="700" font-size="84" fill="#FFF7ED" text-anchor="middle" letter-spacing="1">ClaseSmart</text>
+  <text x="540" y="1280" font-family="DejaVu Sans, sans-serif" font-weight="400" font-size="26" fill="#F97316" opacity="0.82" text-anchor="middle" letter-spacing="3">tu aliada en el aula</text>
+  <rect x="0" y="1340" width="1080" height="10" fill="#F97316"/>
+</svg>
