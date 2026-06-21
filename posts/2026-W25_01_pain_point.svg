@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <clipPath id="leftClip"><rect x="60" y="470" width="450" height="430" rx="18"/></clipPath>
+    <clipPath id="rightClip"><rect x="570" y="470" width="450" height="430" rx="18"/></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1080" height="1350" fill="#1E3A8A"/>
+
+  <!-- Subtle decorative circles -->
+  <circle cx="120" cy="160" r="180" fill="#F97316" opacity="0.10"/>
+  <circle cx="980" cy="120" r="120" fill="#FFF7ED" opacity="0.08"/>
+  <circle cx="60" cy="1180" r="160" fill="#F97316" opacity="0.10"/>
+  <circle cx="1010" cy="1280" r="200" fill="#FFF7ED" opacity="0.06"/>
+  <circle cx="540" cy="690" r="22" fill="#FFF7ED" opacity="0.10"/>
+
+  <!-- Hook text panel -->
+  <rect x="60" y="70" width="960" height="350" rx="36" fill="#FFF7ED"/>
+  <text x="540" y="170" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="58" font-weight="bold" fill="#1E3A8A">Una celda mal puesta</text>
+  <text x="540" y="240" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="58" font-weight="bold" fill="#1E3A8A">en Excel y se te</text>
+  <text x="540" y="310" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="58" font-weight="bold" fill="#1E3A8A">descuadran <tspan fill="#F97316">TODAS</tspan></text>
+  <text x="540" y="380" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="58" font-weight="bold" fill="#1E3A8A">las calificaciones</text>
+
+  <!-- ===== SPLIT SCREEN ===== -->
+
+  <!-- LEFT: chaotic Excel -->
+  <rect x="60" y="470" width="450" height="430" rx="18" fill="#FFFFFF"/>
+  <g clip-path="url(#leftClip)">
+    <!-- header strip -->
+    <rect x="60" y="470" width="450" height="46" fill="#15803D"/>
+    <text x="285" y="501" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF">calificaciones.xlsx</text>
+    <!-- grid lines -->
+    <g stroke="#D1D5DB" stroke-width="1.5">
+      <line x1="60" y1="560" x2="510" y2="560"/>
+      <line x1="60" y1="616" x2="510" y2="616"/>
+      <line x1="60" y1="672" x2="510" y2="672"/>
+      <line x1="60" y1="728" x2="510" y2="728"/>
+      <line x1="60" y1="784" x2="510" y2="784"/>
+      <line x1="60" y1="840" x2="510" y2="840"/>
+      <line x1="172" y1="516" x2="172" y2="900"/>
+      <line x1="284" y1="516" x2="284" y2="900"/>
+      <line x1="396" y1="516" x2="396" y2="900"/>
+    </g>
+    <!-- error red cells -->
+    <rect x="172" y="560" width="112" height="56" fill="#FECACA"/>
+    <rect x="396" y="616" width="114" height="56" fill="#FECACA"/>
+    <rect x="60" y="728" width="112" height="56" fill="#FECACA"/>
+    <rect x="284" y="784" width="112" height="56" fill="#FECACA"/>
+    <text x="116" y="598" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#374151">8.5</text>
+    <text x="228" y="598" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="bold" fill="#B91C1C">#REF!</text>
+    <text x="340" y="654" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#374151">9.0</text>
+    <text x="453" y="654" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="bold" fill="#B91C1C">#REF!</text>
+    <text x="116" y="766" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="bold" fill="#B91C1C">#REF!</text>
+    <text x="340" y="822" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="bold" fill="#B91C1C">#REF!</text>
+    <!-- giant #REF! overlay -->
+    <text x="285" y="715" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="78" font-weight="bold" fill="#DC2626" opacity="0.92" transform="rotate(-12 285 700)">#REF!</text>
+  </g>
+  <rect x="60" y="470" width="450" height="430" rx="18" fill="none" stroke="#DC2626" stroke-width="4"/>
+
+  <!-- divider VS badge -->
+  <circle cx="540" cy="685" r="40" fill="#F97316" stroke="#FFF7ED" stroke-width="5"/>
+  <text x="540" y="699" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">VS</text>
+
+  <!-- RIGHT: clean ClaseSmart -->
+  <rect x="570" y="470" width="450" height="430" rx="18" fill="#FFFFFF"/>
+  <g clip-path="url(#rightClip)">
+    <rect x="570" y="470" width="450" height="46" fill="#1E3A8A"/>
+    <text x="795" y="501" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF">ClaseSmart</text>
+    <!-- clean rows with promedios -->
+    <g font-family="DejaVu Sans, sans-serif">
+      <rect x="588" y="540" width="414" height="58" rx="10" fill="#EFF6FF"/>
+      <text x="606" y="576" font-size="22" fill="#1E3A8A">Ana M.</text>
+      <text x="984" y="576" text-anchor="end" font-size="26" font-weight="bold" fill="#F97316">9.4</text>
+
+      <rect x="588" y="608" width="414" height="58" rx="10" fill="#EFF6FF"/>
+      <text x="606" y="644" font-size="22" fill="#1E3A8A">Luis R.</text>
+      <text x="984" y="644" text-anchor="end" font-size="26" font-weight="bold" fill="#F97316">8.7</text>
+
+      <rect x="588" y="676" width="414" height="58" rx="10" fill="#EFF6FF"/>
+      <text x="606" y="712" font-size="22" fill="#1E3A8A">Sofia P.</text>
+      <text x="984" y="712" text-anchor="end" font-size="26" font-weight="bold" fill="#F97316">10</text>
+
+      <rect x="588" y="744" width="414" height="58" rx="10" fill="#1E3A8A"/>
+      <text x="606" y="780" font-size="22" font-weight="bold" fill="#FFFFFF">Promedio</text>
+      <text x="984" y="780" text-anchor="end" font-size="28" font-weight="bold" fill="#FBBF24">9.4</text>
+    </g>
+    <!-- check badge -->
+    <circle cx="630" cy="855" r="22" fill="#16A34A"/>
+    <path d="M619 855 l8 9 l14 -18" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="665" y="864" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="bold" fill="#16A34A">Calculado automatico</text>
+  </g>
+  <rect x="570" y="470" width="450" height="430" rx="18" fill="none" stroke="#16A34A" stroke-width="4"/>
+
+  <!-- ===== OWL mascot ===== -->
+  <g transform="translate(540 1075)">
+    <!-- body -->
+    <ellipse cx="0" cy="0" rx="92" ry="105" fill="#1E3A8A" stroke="#FFF7ED" stroke-width="6"/>
+    <ellipse cx="0" cy="18" rx="60" ry="70" fill="#F97316" opacity="0.20"/>
+    <!-- ear tufts -->
+    <path d="M-70 -78 L-44 -118 L-30 -80 Z" fill="#1E3A8A" stroke="#FFF7ED" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M70 -78 L44 -118 L30 -80 Z" fill="#1E3A8A" stroke="#FFF7ED" stroke-width="5" stroke-linejoin="round"/>
+    <!-- eyes (right open, left winking) -->
+    <circle cx="-38" cy="-28" r="34" fill="#FFF7ED"/>
+    <circle cx="38" cy="-28" r="34" fill="#FFF7ED"/>
+    <!-- left winking eye -->
+    <path d="M-62 -28 q24 22 48 0" fill="none" stroke="#1E3A8A" stroke-width="7" stroke-linecap="round"/>
+    <!-- right open eye -->
+    <circle cx="38" cy="-28" r="16" fill="#1E3A8A"/>
+    <circle cx="44" cy="-34" r="5" fill="#FFFFFF"/>
+    <!-- triangle beak -->
+    <path d="M-14 -6 L14 -6 L0 22 Z" fill="#F97316" stroke="#C2410C" stroke-width="2" stroke-linejoin="round"/>
+    <!-- feet -->
+    <path d="M-26 100 l-12 16 M-26 100 l0 18 M-26 100 l12 16" stroke="#F97316" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <path d="M26 100 l-12 16 M26 100 l0 18 M26 100 l12 16" stroke="#F97316" stroke-width="5" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="540" y="1268" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="64" font-weight="bold" fill="#FFF7ED">ClaseSmart</text>
+  <text x="540" y="1312" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="28" fill="#F97316">Calificaciones sin Excel, sin estres</text>
+</svg>
