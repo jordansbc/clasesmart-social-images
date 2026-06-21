@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <symbol id="wa" viewBox="0 0 56 56">
+      <circle cx="28" cy="28" r="26" fill="#25D366"/>
+      <path d="M38 34 c-2 0-4-.4-6-1 -.5-.2-1.1-.1-1.5.3l-2.6 2.6 c-4.5-2.4-8.2-6.1-10.6-10.6l2.6-2.6 c.4-.4.5-1 .3-1.5 -.6-1.9-1-3.9-1-6 0-1-.8-1.8-1.8-1.8H15 c-1 0-1.8.8-1.8 1.8 C13.2 31 24.9 42.8 38 42.8 c1 0 1.8-.8 1.8-1.8v-3.2 C39.8 34.8 39 34 38 34z" fill="#ffffff"/>
+    </symbol>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="1350" fill="#1E3A8A"/>
+
+  <circle cx="1010" cy="110" r="210" fill="#F97316" opacity="0.13"/>
+  <circle cx="70" cy="1210" r="240" fill="#3B5BC0" opacity="0.30"/>
+  <circle cx="980" cy="690" r="120" fill="#F97316" opacity="0.10"/>
+  <circle cx="130" cy="120" r="70" fill="#F97316" opacity="0.12"/>
+  <circle cx="930" cy="980" r="60" fill="#FFFFFF" opacity="0.06"/>
+
+  <rect x="70" y="90" width="940" height="470" rx="44" fill="#FFF7ED"/>
+  <rect x="70" y="90" width="22" height="470" rx="11" fill="#F97316"/>
+  <g font-family="DejaVu Sans, sans-serif" text-anchor="middle">
+    <text x="555" y="218" font-size="78" font-weight="bold" fill="#1E3A8A">Mandar 30 avisos</text>
+    <text x="555" y="308" font-size="78" font-weight="bold" fill="#1E3A8A">por WhatsApp,</text>
+    <text x="555" y="398" font-size="78" font-weight="bold" fill="#1E3A8A">uno por uno…</text>
+    <text x="555" y="510" font-size="96" font-weight="bold" fill="#F97316">ya valió</text>
+  </g>
+
+  <g font-family="DejaVu Sans, sans-serif">
+    <rect x="240" y="600" width="540" height="116" rx="26" fill="#FFF7ED"/>
+    <path d="M268 716 L248 760 L300 716 Z" fill="#FFF7ED"/>
+    <text x="270" y="648" font-size="26" font-weight="bold" fill="#1E3A8A">Recordatorio para el grupo</text>
+    <text x="270" y="690" font-size="30" fill="#334155">Mañana hay junta a las 5 pm</text>
+    <circle cx="800" cy="616" r="46" fill="#F97316"/>
+    <text x="800" y="628" font-size="40" font-weight="bold" fill="#FFFFFF" text-anchor="middle">×30</text>
+  </g>
+
+  <g stroke="#F97316" stroke-width="5" fill="none" opacity="0.55" stroke-linecap="round">
+    <path d="M510 760 C400 765 230 740 170 772"/>
+    <path d="M520 760 C470 766 360 758 310 772"/>
+    <path d="M530 762 C500 768 470 766 450 772"/>
+    <path d="M555 762 C575 768 600 766 590 772"/>
+    <path d="M570 760 C640 766 700 758 730 772"/>
+    <path d="M580 760 C720 765 820 740 870 772"/>
+  </g>
+  <g fill="#F97316" opacity="0.55">
+    <circle cx="170" cy="772" r="6"/>
+    <circle cx="310" cy="772" r="6"/>
+    <circle cx="450" cy="772" r="6"/>
+    <circle cx="590" cy="772" r="6"/>
+    <circle cx="730" cy="772" r="6"/>
+    <circle cx="870" cy="772" r="6"/>
+  </g>
+
+  <text x="540" y="798" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="bold" fill="#FFF7ED" text-anchor="middle">…y termina copiándose 30 veces</text>
+
+  <g>
+    <use href="#wa" x="142" y="822" width="56" height="56"/>
+    <use href="#wa" x="282" y="822" width="56" height="56"/>
+    <use href="#wa" x="422" y="822" width="56" height="56"/>
+    <use href="#wa" x="562" y="822" width="56" height="56"/>
+    <use href="#wa" x="702" y="822" width="56" height="56"/>
+    <use href="#wa" x="842" y="822" width="56" height="56"/>
+    <use href="#wa" x="142" y="887" width="56" height="56"/>
+    <use href="#wa" x="282" y="887" width="56" height="56"/>
+    <use href="#wa" x="422" y="887" width="56" height="56"/>
+    <use href="#wa" x="562" y="887" width="56" height="56"/>
+    <use href="#wa" x="702" y="887" width="56" height="56"/>
+    <use href="#wa" x="842" y="887" width="56" height="56"/>
+    <use href="#wa" x="142" y="952" width="56" height="56"/>
+    <use href="#wa" x="282" y="952" width="56" height="56"/>
+    <use href="#wa" x="422" y="952" width="56" height="56"/>
+    <use href="#wa" x="562" y="952" width="56" height="56"/>
+    <use href="#wa" x="702" y="952" width="56" height="56"/>
+    <use href="#wa" x="842" y="952" width="56" height="56"/>
+    <use href="#wa" x="142" y="1017" width="56" height="56"/>
+    <use href="#wa" x="282" y="1017" width="56" height="56"/>
+    <use href="#wa" x="422" y="1017" width="56" height="56"/>
+    <use href="#wa" x="562" y="1017" width="56" height="56"/>
+    <use href="#wa" x="702" y="1017" width="56" height="56"/>
+    <use href="#wa" x="842" y="1017" width="56" height="56"/>
+    <use href="#wa" x="142" y="1082" width="56" height="56"/>
+    <use href="#wa" x="282" y="1082" width="56" height="56"/>
+    <use href="#wa" x="422" y="1082" width="56" height="56"/>
+    <use href="#wa" x="562" y="1082" width="56" height="56"/>
+    <use href="#wa" x="702" y="1082" width="56" height="56"/>
+    <use href="#wa" x="842" y="1082" width="56" height="56"/>
+  </g>
+
+  <g transform="translate(925,1235)">
+    <path d="M-42,-60 L-18,-30 L-54,-28 Z" fill="#F97316"/>
+    <path d="M42,-60 L18,-30 L54,-28 Z" fill="#F97316"/>
+    <ellipse cx="0" cy="0" rx="58" ry="66" fill="#F97316"/>
+    <ellipse cx="0" cy="16" rx="34" ry="42" fill="#FFF7ED" opacity="0.92"/>
+    <circle cx="-24" cy="-14" r="25" fill="#FFF7ED"/>
+    <circle cx="24" cy="-14" r="25" fill="#FFF7ED"/>
+    <circle cx="-24" cy="-12" r="11" fill="#1E3A8A"/>
+    <circle cx="24" cy="-12" r="11" fill="#1E3A8A"/>
+    <circle cx="-20" cy="-16" r="3.5" fill="#FFFFFF"/>
+    <circle cx="28" cy="-16" r="3.5" fill="#FFFFFF"/>
+    <path d="M-11,4 L11,4 L0,22 Z" fill="#1E3A8A"/>
+  </g>
+
+  <text x="500" y="1262" font-family="DejaVu Sans, sans-serif" font-size="72" font-weight="bold" fill="#F97316" text-anchor="middle">ClaseSmart</text>
+</svg>
