@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect x="0" y="0" width="1080" height="1350" fill="#1E3A8A"/>
+  <circle cx="90" cy="1180" r="200" fill="#F97316" opacity="0.07"/>
+  <circle cx="1000" cy="230" r="170" fill="#FFFFFF" opacity="0.05"/>
+  <circle cx="1010" cy="1010" r="95" fill="#F97316" opacity="0.10"/>
+  <circle cx="140" cy="300" r="70" fill="#FFFFFF" opacity="0.04"/>
+  <circle cx="60" cy="640" r="40" fill="#F97316" opacity="0.10"/>
+  <rect x="230" y="66" width="620" height="76" rx="38" fill="#F97316"/>
+  <text x="540" y="117" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="bold" fill="#FFF7ED" text-anchor="middle" letter-spacing="1">50 frases GRATIS para boletas</text>
+  <rect x="66" y="188" width="948" height="436" rx="34" fill="#FFF7ED"/>
+  <rect x="66" y="188" width="16" height="436" rx="8" fill="#F97316"/>
+  <text font-family="DejaVu Sans, sans-serif" font-size="50" font-weight="bold" fill="#1E3A8A">
+    <tspan x="118" y="288">Cuando escribes</tspan>
+    <tspan x="118" y="348" fill="#F97316">“es un niño muy</tspan>
+    <tspan x="118" y="408" fill="#F97316">participativo”</tspan>
+    <tspan x="118" y="468">por vigésima vez</tspan>
+    <tspan x="118" y="528">y ya no sabes cómo</tspan>
+    <tspan x="118" y="588">variarlo</tspan>
+  </text>
+  <rect x="88" y="662" width="904" height="432" rx="26" fill="#FFFDF8" stroke="#E5D9C6" stroke-width="2"/>
+  <circle cx="150" cy="662" r="9" fill="#1E3A8A"/>
+  <circle cx="230" cy="662" r="9" fill="#1E3A8A"/>
+  <circle cx="310" cy="662" r="9" fill="#1E3A8A"/>
+  <circle cx="390" cy="662" r="9" fill="#1E3A8A"/>
+  <circle cx="470" cy="662" r="9" fill="#1E3A8A"/>
+  <line x1="176" y1="720" x2="176" y2="1058" stroke="#F97316" stroke-width="3" opacity="0.55"/>
+  <text x="210" y="722" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#1E3A8A">Mi libreta de observaciones</text>
+  <text x="210" y="792" font-family="DejaVu Sans, sans-serif" font-size="29" fill="#9CA3AF" text-decoration="line-through">Es un niño muy participativo</text>
+  <line x1="210" y1="810" x2="960" y2="810" stroke="#F1E7D6" stroke-width="2"/>
+  <text x="210" y="856" font-family="DejaVu Sans, sans-serif" font-size="29" fill="#9CA3AF" text-decoration="line-through">Participa mucho en clase</text>
+  <line x1="210" y1="874" x2="960" y2="874" stroke="#F1E7D6" stroke-width="2"/>
+  <circle cx="196" cy="912" r="7" fill="#F97316"/>
+  <text x="222" y="922" font-family="DejaVu Sans, sans-serif" font-size="29" font-weight="bold" fill="#1E3A8A">Colabora con entusiasmo en equipo</text>
+  <line x1="210" y1="940" x2="960" y2="940" stroke="#F1E7D6" stroke-width="2"/>
+  <circle cx="196" cy="978" r="7" fill="#F97316"/>
+  <text x="222" y="988" font-family="DejaVu Sans, sans-serif" font-size="29" font-weight="bold" fill="#1E3A8A">Comparte sus ideas con seguridad</text>
+  <line x1="210" y1="1006" x2="960" y2="1006" stroke="#F1E7D6" stroke-width="2"/>
+  <circle cx="196" cy="1044" r="7" fill="#F97316"/>
+  <text x="222" y="1054" font-family="DejaVu Sans, sans-serif" font-size="29" font-weight="bold" fill="#1E3A8A">Toma la iniciativa al proponer</text>
+  <g>
+    <polygon points="882,1152 912,1148 900,1180" fill="#F97316"/>
+    <polygon points="998,1152 968,1148 980,1180" fill="#F97316"/>
+    <ellipse cx="940" cy="1228" rx="80" ry="90" fill="#FFF7ED" stroke="#1E3A8A" stroke-width="6"/>
+    <ellipse cx="940" cy="1256" rx="42" ry="46" fill="#F97316" opacity="0.9"/>
+    <circle cx="914" cy="1200" r="24" fill="#FFFFFF" stroke="#1E3A8A" stroke-width="4"/>
+    <circle cx="919" cy="1203" r="10" fill="#1E3A8A"/>
+    <path d="M948 1204 q17 -16 35 0" fill="none" stroke="#1E3A8A" stroke-width="6" stroke-linecap="round"/>
+    <polygon points="931,1216 953,1216 942,1236" fill="#F97316" stroke="#1E3A8A" stroke-width="2"/>
+    <polygon points="916,1314 900,1330 932,1330" fill="#F97316"/>
+    <polygon points="964,1314 948,1330 980,1330" fill="#F97316"/>
+  </g>
+  <text x="440" y="1258" font-family="DejaVu Sans, sans-serif" font-size="52" font-weight="bold" fill="#F97316" text-anchor="middle">ClaseSmart</text>
+  <text x="440" y="1296" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#FFF7ED" text-anchor="middle" opacity="0.85">para maestras de primaria</text>
+</svg>
