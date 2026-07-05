@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="DejaVu Sans, sans-serif">
+  <!-- Background -->
+  <rect width="1080" height="1350" fill="#1E3A8A"/>
+  <!-- Subtle decorative circles -->
+  <circle cx="1000" cy="120" r="190" fill="#FFFFFF" opacity="0.04"/>
+  <circle cx="70" cy="640" r="150" fill="#FFFFFF" opacity="0.04"/>
+  <circle cx="980" cy="900" r="170" fill="#F97316" opacity="0.06"/>
+  <circle cx="120" cy="240" r="90" fill="#F97316" opacity="0.05"/>
+
+  <!-- Title / hook -->
+  <text x="56" y="104" font-size="56" font-weight="bold" fill="#FFF7ED">
+    <tspan>Los </tspan><tspan fill="#F97316">7</tspan><tspan> ejes</tspan>
+  </text>
+  <text x="56" y="168" font-size="56" font-weight="bold" fill="#FFF7ED">articuladores de la NEM,</text>
+  <text x="56" y="232" font-size="56" font-weight="bold" fill="#F97316">explicados sin rollo</text>
+
+  <!-- Subtitle panel -->
+  <rect x="56" y="262" width="968" height="122" rx="22" fill="#FFF7ED"/>
+  <text x="84" y="304" font-size="25" fill="#1E3A8A">Si los campos formativos son el «qué»,</text>
+  <text x="84" y="338" font-size="25" fill="#1E3A8A">los ejes articuladores son el «con qué lente</text>
+  <text x="84" y="372" font-size="25" fill="#1E3A8A" font-weight="bold">lo enseñas». Y son 7.</text>
+
+  <!-- ===== CARDS ===== -->
+  <!-- Card 1 : y 420 cy 466 -->
+  <rect x="48" y="420" width="984" height="92" rx="22" fill="#FFF7ED"/>
+  <circle cx="112" cy="466" r="34" fill="#F97316"/>
+  <text x="112" y="478" font-size="34" font-weight="bold" fill="#FFF7ED" text-anchor="middle">1</text>
+  <text x="170" y="462" font-size="29" font-weight="bold" fill="#1E3A8A">Inclusión</text>
+  <text x="170" y="490" font-size="17" fill="#1E3A8A" opacity="0.75">Que nadie se quede fuera</text>
+  <circle cx="936" cy="460" r="11" fill="#1E3A8A"/>
+  <circle cx="958" cy="460" r="11" fill="#1E3A8A"/>
+  <polygon points="926,464 968,464 947,487" fill="#1E3A8A"/>
+
+  <!-- Card 2 : y 526 cy 572 -->
+  <rect x="48" y="526" width="984" height="92" rx="22" fill="#FFF7ED"/>
+  <circle cx="112" cy="572" r="34" fill="#F97316"/>
+  <text x="112" y="584" font-size="34" font-weight="bold" fill="#FFF7ED" text-anchor="middle">2</text>
+  <text x="170" y="568" font-size="29" font-weight="bold" fill="#1E3A8A">Pensamiento crítico</text>
+  <text x="170" y="596" font-size="17" fill="#1E3A8A" opacity="0.75">Cuestionar, no memorizar</text>
+  <circle cx="945" cy="566" r="16" fill="#F97316"/>
+  <rect x="938" y="579" width="14" height="9" rx="2" fill="#1E3A8A"/>
+  <rect x="940" y="588" width="10" height="5" rx="2" fill="#1E3A8A"/>
+
+  <!-- Card 3 : y 632 cy 678 -->
+  <rect x="48" y="632" width="984" height="92" rx="22" fill="#FFF7ED"/>
+  <circle cx="112" cy="678" r="34" fill="#F97316"/>
+  <text x="112" y="690" font-size="34" font-weight="bold" fill="#FFF7ED" text-anchor="middle">3</text>
+  <text x="170" y="674" font-size="29" font-weight="bold" fill="#1E3A8A">Interculturalidad crítica</text>
+  <text x="170" y="702" font-size="17" fill="#1E3A8A" opacity="0.75">Diversidad como riqueza</text>
+  <circle cx="945" cy="678" r="17" fill="none" stroke="#1E3A8A" stroke-width="4"/>
+  <ellipse cx="945" cy="678" rx="7" ry="17" fill="none" stroke="#1E3A8A" stroke-width="3"/>
+  <line x1="928" y1="678" x2="962" y2="678" stroke="#1E3A8A" stroke-width="3"/>
+
+  <!-- Card 4 : y 738 cy 784 -->
+  <rect x="48" y="738" width="984" height="92" rx="22" fill="#FFF7ED"/>
+  <circle cx="112" cy="784" r="34" fill="#F97316"/>
+  <text x="112" y="796" font-size="34" font-weight="bold" fill="#FFF7ED" text-anchor="middle">4</text>
+  <text x="170" y="780" font-size="29" font-weight="bold" fill="#1E3A8A">Igualdad de género</text>
+  <text x="170" y="808" font-size="17" fill="#1E3A8A" opacity="0.75">Mismas oportunidades</text>
+  <rect x="926" y="774" width="38" height="9" rx="4" fill="#1E3A8A"/>
+  <rect x="926" y="789" width="38" height="9" rx="4" fill="#1E3A8A"/>
+
+  <!-- Card 5 : y 844 cy 890 -->
+  <rect x="48" y="844" width="984" height="92" rx="22" fill="#FFF7ED"/>
+  <circle cx="112" cy="890" r="34" fill="#F97316"/>
+  <text x="112" y="902" font-size="34" font-weight="bold" fill="#FFF7ED" text-anchor="middle">5</text>
+  <text x="170" y="886" font-size="29" font-weight="bold" fill="#1E3A8A">Vida saludable</text>
+  <text x="170" y="914" font-size="17" fill="#1E3A8A" opacity="0.75">Cuerpo y mente sanos</text>
+  <circle cx="945" cy="892" r="16" fill="#F97316"/>
+  <rect x="943" y="872" width="4" height="9" fill="#1E3A8A"/>
+  <ellipse cx="954" cy="874" rx="7" ry="4" fill="#1E3A8A"/>
+
+  <!-- Card 6 : y 950 cy 996 -->
+  <rect x="48" y="950" width="984" height="92" rx="22" fill="#FFF7ED"/>
+  <circle cx="112" cy="996" r="34" fill="#F97316"/>
+  <text x="112" y="1008" font-size="34" font-weight="bold" fill="#FFF7ED" text-anchor="middle">6</text>
+  <text x="170" y="992" font-size="29" font-weight="bold" fill="#1E3A8A">Lectura y escritura</text>
+  <text x="170" y="1020" font-size="17" fill="#1E3A8A" opacity="0.75">Apropiarse de la cultura escrita</text>
+  <polygon points="920,986 944,982 944,1010 920,1014" fill="#1E3A8A"/>
+  <polygon points="970,986 946,982 946,1010 970,1014" fill="#1E3A8A"/>
+
+  <!-- Card 7 : y 1056 cy 1102 -->
+  <rect x="48" y="1056" width="984" height="92" rx="22" fill="#FFF7ED"/>
+  <circle cx="112" cy="1102" r="34" fill="#F97316"/>
+  <text x="112" y="1114" font-size="34" font-weight="bold" fill="#FFF7ED" text-anchor="middle">7</text>
+  <text x="170" y="1098" font-size="29" font-weight="bold" fill="#1E3A8A">Artes y experiencias estéticas</text>
+  <text x="170" y="1126" font-size="17" fill="#1E3A8A" opacity="0.75">Sentir, crear, expresar</text>
+  <polygon points="945,1084 949.2,1096.4 962.1,1096.4 951.8,1105.4 955.6,1119.1 945,1110.5 934.4,1119.1 938.2,1105.4 927.9,1096.4 940.8,1096.4" fill="#F97316"/>
+
+  <!-- ===== OWL holding 'guárdalo' pin ===== -->
+  <!-- Banner -->
+  <rect x="236" y="1200" width="214" height="58" rx="14" fill="#FFF7ED" stroke="#F97316" stroke-width="4"/>
+  <text x="343" y="1237" font-size="28" font-weight="bold" fill="#1E3A8A" text-anchor="middle">¡GUÁRDALO!</text>
+  <circle cx="248" cy="1204" r="9" fill="#F97316" stroke="#1E3A8A" stroke-width="2"/>
+
+  <!-- Owl -->
+  <polygon points="110,1196 142,1180 140,1216" fill="#F97316"/>
+  <polygon points="190,1196 158,1180 160,1216" fill="#F97316"/>
+  <ellipse cx="150" cy="1256" rx="66" ry="74" fill="#F97316"/>
+  <ellipse cx="150" cy="1274" rx="40" ry="48" fill="#FFF7ED"/>
+  <!-- wing reaching banner -->
+  <ellipse cx="206" cy="1244" rx="17" ry="27" fill="#EA580C" transform="rotate(24 206 1244)"/>
+  <!-- eyes -->
+  <circle cx="126" cy="1236" r="24" fill="#FFF7ED"/>
+  <circle cx="174" cy="1236" r="24" fill="#FFF7ED"/>
+  <circle cx="130" cy="1239" r="11" fill="#1E3A8A"/>
+  <circle cx="170" cy="1239" r="11" fill="#1E3A8A"/>
+  <circle cx="134" cy="1235" r="3.5" fill="#FFF7ED"/>
+  <circle cx="174" cy="1235" r="3.5" fill="#FFF7ED"/>
+  <!-- beak -->
+  <polygon points="141,1252 159,1252 150,1267" fill="#EA580C"/>
+  <!-- feet -->
+  <polygon points="128,1326 148,1326 138,1338" fill="#EA580C"/>
+  <polygon points="152,1326 172,1326 162,1338" fill="#EA580C"/>
+
+  <!-- Wordmark -->
+  <text x="1020" y="1316" font-size="46" font-weight="bold" fill="#F97316" text-anchor="end">ClaseSmart</text>
+</svg>
