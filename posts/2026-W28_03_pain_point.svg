@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="DejaVu Sans, sans-serif">
+  <!-- Background -->
+  <rect x="0" y="0" width="1080" height="1350" fill="#1E3A8A"/>
+
+  <!-- Subtle decorative circles -->
+  <circle cx="120" cy="1180" r="180" fill="#F97316" opacity="0.10"/>
+  <circle cx="980" cy="200" r="150" fill="#F97316" opacity="0.10"/>
+  <circle cx="1010" cy="1230" r="90" fill="#FFF7ED" opacity="0.06"/>
+  <circle cx="70" cy="470" r="60" fill="#FFF7ED" opacity="0.06"/>
+  <circle cx="900" cy="1150" r="40" fill="#F97316" opacity="0.16"/>
+
+  <!-- ===== Hook text panel ===== -->
+  <rect x="60" y="64" width="960" height="368" rx="34" fill="#FFF7ED"/>
+  <rect x="60" y="64" width="18" height="368" rx="9" fill="#F97316"/>
+  <text text-anchor="middle" font-weight="bold" fill="#1E3A8A">
+    <tspan x="548" y="168" font-size="52">Tu libreta de conducta</tspan>
+    <tspan x="548" y="240" font-size="52">ya parece jeroglífico:</tspan>
+    <tspan x="548" y="312" font-size="52">palomitas, tachones y</tspan>
+    <tspan x="548" y="392" font-size="44" fill="#F97316">"ver nota del 12 de marzo"</tspan>
+  </text>
+
+  <!-- Section labels -->
+  <rect x="118" y="486" width="150" height="46" rx="23" fill="#F97316"/>
+  <text x="193" y="517" text-anchor="middle" font-size="24" font-weight="bold" fill="#FFF7ED">ANTES</text>
+  <rect x="612" y="486" width="330" height="46" rx="23" fill="#F97316"/>
+  <text x="777" y="517" text-anchor="middle" font-size="24" font-weight="bold" fill="#FFF7ED">CON CLASESMART</text>
+
+  <!-- ===== Chaotic conduct notebook ===== -->
+  <g transform="rotate(-4 300 800)">
+    <rect x="112" y="560" width="376" height="520" rx="12" fill="#FFF7ED" stroke="#d9cfba" stroke-width="3"/>
+    <!-- spiral binding -->
+    <circle cx="140" cy="560" r="9" fill="none" stroke="#1E3A8A" stroke-width="4"/>
+    <circle cx="200" cy="560" r="9" fill="none" stroke="#1E3A8A" stroke-width="4"/>
+    <circle cx="260" cy="560" r="9" fill="none" stroke="#1E3A8A" stroke-width="4"/>
+    <circle cx="320" cy="560" r="9" fill="none" stroke="#1E3A8A" stroke-width="4"/>
+    <circle cx="380" cy="560" r="9" fill="none" stroke="#1E3A8A" stroke-width="4"/>
+    <circle cx="440" cy="560" r="9" fill="none" stroke="#1E3A8A" stroke-width="4"/>
+    <!-- faint ruled writing lines -->
+    <g stroke="#1E3A8A" stroke-width="4" opacity="0.35" stroke-linecap="round">
+      <line x1="150" y1="640" x2="440" y2="640"/>
+      <line x1="150" y1="705" x2="410" y2="705"/>
+      <line x1="150" y1="770" x2="450" y2="770"/>
+      <line x1="150" y1="905" x2="430" y2="905"/>
+      <line x1="150" y1="970" x2="400" y2="970"/>
+    </g>
+    <!-- palomitas / checkmarks -->
+    <g stroke="#F97316" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M150 620 l14 16 l24 -30"/>
+      <path d="M150 750 l14 16 l24 -30"/>
+      <path d="M150 885 l14 16 l24 -30"/>
+    </g>
+    <!-- messy crossouts / scribbles -->
+    <g stroke="#F97316" stroke-width="9" fill="none" stroke-linecap="round">
+      <path d="M210 700 q40 -30 90 0 q40 26 100 -6"/>
+      <path d="M215 960 q60 30 130 -4 q40 -20 90 8"/>
+      <line x1="200" y1="835" x2="440" y2="835"/>
+      <line x1="205" y1="845" x2="435" y2="825"/>
+    </g>
+    <!-- little sad faces -->
+    <g>
+      <circle cx="250" cy="1020" r="26" fill="none" stroke="#1E3A8A" stroke-width="4"/>
+      <line x1="238" y1="1010" x2="248" y2="1020" stroke="#1E3A8A" stroke-width="4" stroke-linecap="round"/>
+      <line x1="248" y1="1010" x2="238" y2="1020" stroke="#1E3A8A" stroke-width="4" stroke-linecap="round"/>
+      <line x1="252" y1="1010" x2="262" y2="1020" stroke="#1E3A8A" stroke-width="4" stroke-linecap="round"/>
+      <line x1="262" y1="1010" x2="252" y2="1020" stroke="#1E3A8A" stroke-width="4" stroke-linecap="round"/>
+      <path d="M236 1038 q14 -14 28 0" fill="none" stroke="#1E3A8A" stroke-width="4" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- Magnifying glass over the notebook -->
+  <g>
+    <circle cx="430" cy="640" r="74" fill="#FFF7ED" opacity="0.28"/>
+    <circle cx="430" cy="640" r="74" fill="none" stroke="#1E3A8A" stroke-width="14"/>
+    <circle cx="430" cy="640" r="74" fill="none" stroke="#F97316" stroke-width="6"/>
+    <line x1="484" y1="694" x2="552" y2="762" stroke="#1E3A8A" stroke-width="20" stroke-linecap="round"/>
+    <line x1="484" y1="694" x2="552" y2="762" stroke="#F97316" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <!-- ===== Clean ClaseSmart screen ===== -->
+  <g>
+    <rect x="596" y="556" width="424" height="558" rx="30" fill="#12306b"/>
+    <rect x="620" y="602" width="376" height="486" rx="14" fill="#FFFFFF"/>
+    <!-- header -->
+    <path d="M620 616 a14 14 0 0 1 14 -14 h348 a14 14 0 0 1 14 14 v50 h-376 z" fill="#F97316"/>
+    <text x="808" y="650" text-anchor="middle" font-size="26" font-weight="bold" fill="#FFF7ED">Historial por fecha</text>
+
+    <!-- rows -->
+    <g font-family="DejaVu Sans, sans-serif">
+      <!-- row 1 -->
+      <rect x="642" y="700" width="96" height="36" rx="18" fill="#1E3A8A"/>
+      <text x="690" y="725" text-anchor="middle" font-size="19" fill="#FFF7ED">12 mar</text>
+      <text x="754" y="725" font-size="21" fill="#1E3A8A">Habló mucho</text>
+      <line x1="642" y1="758" x2="974" y2="758" stroke="#e7ded0" stroke-width="2"/>
+      <!-- row 2 -->
+      <rect x="642" y="778" width="96" height="36" rx="18" fill="#1E3A8A"/>
+      <text x="690" y="803" text-anchor="middle" font-size="19" fill="#FFF7ED">18 mar</text>
+      <text x="754" y="803" font-size="21" fill="#1E3A8A">Tarea completa</text>
+      <line x1="642" y1="836" x2="974" y2="836" stroke="#e7ded0" stroke-width="2"/>
+      <!-- row 3 -->
+      <rect x="642" y="856" width="96" height="36" rx="18" fill="#1E3A8A"/>
+      <text x="690" y="881" text-anchor="middle" font-size="19" fill="#FFF7ED">02 abr</text>
+      <text x="754" y="881" font-size="21" fill="#1E3A8A">Ayudó a un amigo</text>
+      <line x1="642" y1="914" x2="974" y2="914" stroke="#e7ded0" stroke-width="2"/>
+      <!-- row 4 -->
+      <rect x="642" y="934" width="96" height="36" rx="18" fill="#1E3A8A"/>
+      <text x="690" y="959" text-anchor="middle" font-size="19" fill="#FFF7ED">15 abr</text>
+      <text x="754" y="959" font-size="21" fill="#1E3A8A">Participó bien</text>
+      <line x1="642" y1="992" x2="974" y2="992" stroke="#e7ded0" stroke-width="2"/>
+    </g>
+  </g>
+
+  <!-- ===== Friendly OWL (basic vector shapes) in corner ===== -->
+  <g transform="translate(966 1010)">
+    <!-- ear tufts -->
+    <path d="M-42 -44 L-24 -74 L-8 -44 Z" fill="#1E3A8A"/>
+    <path d="M42 -44 L24 -74 L8 -44 Z" fill="#1E3A8A"/>
+    <!-- body -->
+    <ellipse cx="0" cy="6" rx="58" ry="64" fill="#1E3A8A"/>
+    <ellipse cx="0" cy="18" rx="40" ry="44" fill="#F97316"/>
+    <!-- eyes -->
+    <circle cx="-22" cy="-16" r="24" fill="#FFF7ED"/>
+    <circle cx="22" cy="-16" r="24" fill="#FFF7ED"/>
+    <circle cx="-22" cy="-16" r="10" fill="#1E3A8A"/>
+    <circle cx="22" cy="-16" r="10" fill="#1E3A8A"/>
+    <!-- beak -->
+    <path d="M-9 4 L9 4 L0 22 Z" fill="#F97316"/>
+    <!-- feet -->
+    <line x1="-16" y1="66" x2="-16" y2="80" stroke="#F97316" stroke-width="6" stroke-linecap="round"/>
+    <line x1="16" y1="66" x2="16" y2="80" stroke="#F97316" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- ===== Wordmark ===== -->
+  <text x="470" y="1300" text-anchor="middle" font-size="76" font-weight="bold" fill="#F97316">ClaseSmart</text>
+</svg>
