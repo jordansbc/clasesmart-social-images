@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <radialGradient id="tableGlow" cx="50%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#2B4CB0"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </radialGradient>
+    <linearGradient id="orangeGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FB923C"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1080" height="1350" fill="url(#tableGlow)"/>
+
+  <!-- Subtle decorative circles -->
+  <circle cx="120" cy="200" r="90" fill="#F97316" opacity="0.10"/>
+  <circle cx="980" cy="1180" r="140" fill="#F97316" opacity="0.10"/>
+  <circle cx="1010" cy="120" r="60" fill="#FFF7ED" opacity="0.08"/>
+  <circle cx="90" cy="1080" r="50" fill="#FFF7ED" opacity="0.08"/>
+  <circle cx="540" cy="1290" r="30" fill="#F97316" opacity="0.14"/>
+
+  <!-- ===================== KITCHEN TABLE (top-down) ===================== -->
+  <!-- Wooden table surface plane -->
+  <rect x="150" y="470" width="780" height="470" rx="34" fill="#E8B984" opacity="0.16"/>
+  <rect x="150" y="470" width="780" height="470" rx="34" fill="none" stroke="#F97316" stroke-width="3" opacity="0.35"/>
+
+  <!-- Coffee cup (top-down: saucer + rim + coffee + handle) -->
+  <g transform="translate(300,585)">
+    <circle cx="0" cy="0" r="86" fill="#FFF7ED" opacity="0.20"/>
+    <circle cx="0" cy="0" r="70" fill="#FFF7ED"/>
+    <circle cx="0" cy="0" r="56" fill="#7A4A2B"/>
+    <circle cx="0" cy="0" r="56" fill="#5C3720" opacity="0.5"/>
+    <ellipse cx="-14" cy="-16" rx="22" ry="12" fill="#8A5636" opacity="0.6"/>
+    <!-- handle -->
+    <path d="M64 -20 q40 20 0 40" fill="none" stroke="#FFF7ED" stroke-width="14" stroke-linecap="round"/>
+    <!-- steam curls -->
+    <path d="M-16 -78 q14 -20 0 -40" fill="none" stroke="#FFF7ED" stroke-width="6" stroke-linecap="round" opacity="0.55"/>
+    <path d="M16 -78 q14 -20 0 -40" fill="none" stroke="#FFF7ED" stroke-width="6" stroke-linecap="round" opacity="0.55"/>
+  </g>
+
+  <!-- Scissors (top-down) -->
+  <g transform="translate(760,600) rotate(28)">
+    <!-- blades -->
+    <path d="M0 0 L120 -26 L128 -14 L10 8 Z" fill="#D9DEE8"/>
+    <path d="M0 0 L120 26 L128 14 L10 -8 Z" fill="#EDF1F7"/>
+    <!-- pivot -->
+    <circle cx="6" cy="0" r="9" fill="#F97316"/>
+    <!-- handles (rings) -->
+    <circle cx="-34" cy="-22" r="24" fill="none" stroke="#F97316" stroke-width="12"/>
+    <circle cx="-34" cy="22" r="24" fill="none" stroke="#F97316" stroke-width="12"/>
+  </g>
+
+  <!-- Foamy (foam craft sheets, stacked) -->
+  <g transform="translate(300,830)">
+    <rect x="-96" y="-58" width="180" height="120" rx="12" fill="#FB7185" transform="rotate(-8)"/>
+    <rect x="-84" y="-70" width="180" height="120" rx="12" fill="#34D399" transform="rotate(4)"/>
+    <rect x="-72" y="-82" width="180" height="120" rx="12" fill="#FBBF24" transform="rotate(-3)"/>
+    <rect x="-60" y="-92" width="180" height="120" rx="12" fill="#60A5FA"/>
+  </g>
+
+  <!-- Little foamy stars scattered -->
+  <g fill="#FBBF24">
+    <path d="M540 500 l9 27 28 0 -23 17 9 27 -23 -17 -23 17 9 -27 -23 -17 28 0 Z"/>
+    <path d="M470 900 l7 20 21 0 -17 13 7 21 -18 -13 -17 13 6 -21 -17 -13 22 0 Z" fill="#FB923C"/>
+    <path d="M640 870 l6 17 18 0 -14 11 5 18 -15 -11 -15 11 6 -18 -15 -11 19 0 Z" fill="#34D399"/>
+  </g>
+
+  <!-- Phone with WhatsApp chat bubbles -->
+  <g transform="translate(720,850)">
+    <rect x="-90" y="-140" width="180" height="290" rx="26" fill="#0F172A"/>
+    <rect x="-78" y="-126" width="156" height="262" rx="16" fill="#0B4D3C"/>
+    <!-- notch -->
+    <rect x="-22" y="-134" width="44" height="9" rx="4" fill="#0F172A"/>
+    <!-- incoming bubble -->
+    <g>
+      <rect x="-64" y="-100" width="96" height="34" rx="14" fill="#F1F5F4"/>
+      <rect x="-56" y="-92" width="60" height="6" rx="3" fill="#94A3B8"/>
+      <rect x="-56" y="-80" width="44" height="6" rx="3" fill="#94A3B8"/>
+    </g>
+    <!-- outgoing bubble (green) -->
+    <g>
+      <rect x="-28" y="-52" width="94" height="34" rx="14" fill="#25D366"/>
+      <rect x="-18" y="-44" width="62" height="6" rx="3" fill="#E9FBEF"/>
+      <rect x="-18" y="-32" width="40" height="6" rx="3" fill="#E9FBEF"/>
+    </g>
+    <!-- incoming bubble 2 -->
+    <g>
+      <rect x="-64" y="-6" width="80" height="30" rx="13" fill="#F1F5F4"/>
+      <rect x="-56" y="2" width="48" height="6" rx="3" fill="#94A3B8"/>
+    </g>
+    <!-- typing dots -->
+    <g fill="#25D366">
+      <circle cx="-40" cy="60" r="7"/>
+      <circle cx="-16" cy="60" r="7"/>
+      <circle cx="8" cy="60" r="7"/>
+    </g>
+  </g>
+
+  <!-- ===================== TEXT PANEL ===================== -->
+  <g>
+    <rect x="60" y="70" width="960" height="360" rx="40" fill="#FFF7ED"/>
+    <rect x="60" y="70" width="960" height="360" rx="40" fill="none" stroke="#F97316" stroke-width="6"/>
+    <!-- POV tag -->
+    <rect x="100" y="104" width="150" height="58" rx="16" fill="url(#orangeGrad)"/>
+    <text x="175" y="145" font-family="DejaVu Sans, sans-serif" font-size="38" font-weight="bold" fill="#FFF7ED" text-anchor="middle">POV</text>
+
+    <text x="540" y="238" font-family="DejaVu Sans, sans-serif" font-size="52" font-weight="bold" fill="#1E3A8A" text-anchor="middle">son las 7 pm, sigues</text>
+    <text x="540" y="304" font-family="DejaVu Sans, sans-serif" font-size="52" font-weight="bold" fill="#1E3A8A" text-anchor="middle">en modo maestra</text>
+    <text x="540" y="376" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="bold" fill="#F97316" text-anchor="middle">y no traes puesta la bata</text>
+  </g>
+
+  <!-- ===================== BOTTOM CAPTION STRIP ===================== -->
+  <g>
+    <rect x="120" y="1005" width="840" height="150" rx="30" fill="#FFF7ED" opacity="0.95"/>
+    <text x="540" y="1062" font-family="DejaVu Sans, sans-serif" font-size="34" font-weight="bold" fill="#1E3A8A" text-anchor="middle">Contestando el grupo "rapidito"</text>
+    <text x="540" y="1112" font-family="DejaVu Sans, sans-serif" font-size="34" font-weight="bold" fill="#1E3A8A" text-anchor="middle">y recortando en la cocina</text>
+  </g>
+
+  <!-- ===================== OWL (corner) ===================== -->
+  <g transform="translate(130,1215)">
+    <!-- body -->
+    <path d="M0 -70 C48 -70 66 -30 66 6 C66 46 38 74 0 74 C-38 74 -66 46 -66 6 C-66 -30 -48 -70 0 -70 Z" fill="url(#orangeGrad)"/>
+    <!-- belly -->
+    <ellipse cx="0" cy="20" rx="38" ry="44" fill="#FFF7ED" opacity="0.85"/>
+    <!-- ear tufts -->
+    <path d="M-46 -52 L-28 -84 L-14 -54 Z" fill="#1E3A8A"/>
+    <path d="M46 -52 L28 -84 L14 -54 Z" fill="#1E3A8A"/>
+    <!-- eyes -->
+    <circle cx="-24" cy="-14" r="26" fill="#FFF7ED"/>
+    <circle cx="24" cy="-14" r="26" fill="#FFF7ED"/>
+    <circle cx="-24" cy="-14" r="13" fill="#1E3A8A"/>
+    <circle cx="24" cy="-14" r="13" fill="#1E3A8A"/>
+    <circle cx="-20" cy="-18" r="4" fill="#FFF7ED"/>
+    <circle cx="28" cy="-18" r="4" fill="#FFF7ED"/>
+    <!-- beak (triangle) -->
+    <path d="M0 -4 L-12 8 L12 8 Z" fill="#1E3A8A"/>
+    <!-- feet -->
+    <path d="M-20 72 l0 14 M-28 86 l16 0 M20 72 l0 14 M12 86 l16 0" stroke="#1E3A8A" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- ===================== WORDMARK ===================== -->
+  <text x="640" y="1245" font-family="DejaVu Sans, sans-serif" font-size="60" font-weight="bold" fill="#FFF7ED" text-anchor="middle">ClaseSmart</text>
+</svg>
